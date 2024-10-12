@@ -1,0 +1,25 @@
+.login{
+    justify-content: center;
+    height: 150px;
+    width: 200px;
+    margin-top: 250px;
+    margin-left: 500px;
+    padding-left: 40px;
+    padding-top: 40px;
+    justify-content: space-between;
+    background-color: bisque;
+    border: 2px solid black;
+}
+
+.register{
+    justify-content: center;
+    height: 240px;
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 470px;
+    padding-left: 40px;
+    padding-top: 40px;
+    justify-content: space-between;
+    background-color: bisque;
+    border: 2px solid black;
+}
